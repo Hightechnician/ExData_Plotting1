@@ -1,3 +1,5 @@
+library(sqldf)
+
 filename<-"household_power_consumption.txt"
 
 # Usus sql query to choose target dates
